@@ -1,0 +1,10 @@
+{
+	"name": "meteringvalues",
+	"version-string": "0.1.0",
+	"dependencies": [
+		"jsoncpp",
+		"fmt",
+		"magic-enum",
+		"catch2"
+	]
+}
